@@ -12,3 +12,23 @@ document.addEventListener("DOMContentLoaded", () => {
     updateTime();
     setInterval(updateTime, 1000); // Update every second
 });
+var hNGImage = document.getElementById("hNGImage");
+if (hNGImage) {
+  hNGImage.addEventListener("click", function () {
+    window.open("https://hng.tech/learn");
+  });
+}
+
+var keywordContainer = document.getElementById("keywordContainer");
+if (keywordContainer) {
+  keywordContainer.addEventListener("click", function () {
+    window.open("https://keyword.dog/");
+  });
+}
+
+var scrapeanywebImage = document.getElementById("scrapeanywebImage");
+if (scrapeanywebImage) {
+  scrapeanywebImage.addEventListener("click", function () {
+    window.open("https://scrapeanyweb.site/");
+  });
+}
