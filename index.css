@@ -62,11 +62,7 @@
   font-weight: 800;
   font-family: inherit;
 }
-.elmanny2 {
-  font-size: var(--font-size-13xl);
-  font-weight: 500;
-  font-family: var(--font-clash-display-variable);
-}
+
 .days {
   flex: 1;
   display: flex;
