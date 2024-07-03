@@ -270,14 +270,7 @@
   position: relative;
   border-radius: var(--br-10xs);
 }
-.build-a-full-stack {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 245px;
-  max-width: 100%;
-}
+
 .checkbox-parent {
   align-self: stretch;
   display: flex;
@@ -288,46 +281,10 @@
   gap: var(--gap-5xs);
   max-width: 100%;
 }
-.checkbox1 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.participate-in-hackathons {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 182px;
-  max-width: 100%;
-}
-.checkbox-group {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox2 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.explore-ai-and {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 234px;
-  max-width: 100%;
-}
+
+
+
+
 .checkbox-container {
   align-self: stretch;
   display: flex;
@@ -338,121 +295,8 @@
   gap: var(--gap-5xs);
   max-width: 100%;
 }
-.checkbox3 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.create-a-personal {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 201px;
-  max-width: 100%;
-}
-.frame-div {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox4 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.learn-and-implement {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 283px;
-  max-width: 100%;
-}
-.checkbox-parent1 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox5 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.master-version-control {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 221px;
-  max-width: 100%;
-}
-.checkbox-parent2 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox6 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.develop-mobile-applications {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 202px;
-  max-width: 100%;
-}
-.checkbox-parent3 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox7 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.contribute-to-open {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 255px;
-  max-width: 100%;
-}
+
+
 .checkbox-parent4,
 .goals,
 .list {
@@ -461,12 +305,7 @@
   justify-content: flex-start;
   max-width: 100%;
 }
-.checkbox-parent4 {
-  align-self: stretch;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: var(--gap-5xs);
-}
+
 .goals,
 .list {
   flex-direction: column;
@@ -488,15 +327,13 @@
   gap: var(--gap-21xl);
   z-index: 1;
 }
-.goals3,
+
 .progress1 {
   position: relative;
   line-height: 150%;
   display: inline-block;
 }
-.goals3 {
-  width: 308px;
-}
+
 .progress1 {
   flex: 1;
   min-width: 78px;
@@ -582,164 +419,10 @@
   padding: var(--padding-2xl) var(--padding-xl);
   box-sizing: border-box;
 }
-.checkbox8 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.master-a-frontend {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 215px;
-  max-width: 100%;
-}
-.checkbox-parent5 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox9 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.learn-about-cybersecurity {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 188px;
-  max-width: 100%;
-}
-.checkbox-parent6 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox10 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.automate-repetitive-tasks {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 278px;
-  max-width: 100%;
-}
-.checkbox-parent7 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox11 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.participate-in-a {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 240px;
-  max-width: 100%;
-}
-.checkbox-parent8 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox12 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.explore-iot-internet {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 217px;
-  max-width: 100%;
-}
-.checkbox-parent9 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox13 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.build-a-restful {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 138px;
-  max-width: 100%;
-}
-.checkbox-parent10 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox14 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.get-involved-in {
+
+
+
+.goal-details {
   flex: 1;
   position: relative;
   line-height: 24px;
@@ -747,31 +430,8 @@
   min-width: 244px;
   max-width: 100%;
 }
-.checkbox-parent11 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-5xs);
-  max-width: 100%;
-}
-.checkbox15 {
-  margin: 0;
-  height: 19px;
-  width: 19px;
-  position: relative;
-  border-radius: var(--br-10xs);
-}
-.start-a-side {
-  flex: 1;
-  position: relative;
-  line-height: 24px;
-  display: inline-block;
-  min-width: 138px;
-  max-width: 100%;
-}
+
+
 .checkbox-parent12,
 .frame-group,
 .goals-header,
@@ -781,12 +441,7 @@
   justify-content: flex-start;
   max-width: 100%;
 }
-.checkbox-parent12 {
-  align-self: stretch;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: var(--gap-5xs);
-}
+
 .frame-group,
 .goals-header,
 .goals2 {
@@ -804,13 +459,7 @@
 .goals2 {
   align-self: stretch;
 }
-.goals2 {
-  border-radius: var(--br-mini);
-  background-color: var(--color-dodgerblue);
-  padding: var(--padding-base) var(--padding-9xl) var(--padding-30xl);
-  box-sizing: border-box;
-  gap: var(--gap-21xl);
-}
+
 .goals-header {
   gap: var(--gap-24xl);
 }
